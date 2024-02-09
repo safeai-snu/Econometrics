@@ -1,2 +1,2 @@
-# Time-series Forecasting
+# Classical Time-series Forecasting and Econometrics
 2024 winter
