@@ -1,2 +1,3 @@
 # Classical Time-series Forecasting and Econometrics
-2024 winter
+
+Wikidics:  https://wikidocs.net/book/14638
