@@ -1,3 +1,4 @@
-# Classical Time-series Forecasting and Econometrics
+# 파이썬으로 배우는 통계적 시계열 분석과 응용
 
-Wikidocs:  https://wikidocs.net/book/14638
+"파이썬으로 배우는 통계적 시계열 분석과 응용" 도서의 실습 코드를 담고 있습니다.
+각 대단원에 해당하는 Part에서 코드를 확인하실 수 있습니다.
